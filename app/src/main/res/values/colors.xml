@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF40C4FF</color>
+    <color name="colorPrimaryDark">#EEEEEE</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Fondo">#ECECEC</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="Celeste">#FF40C4FF</color>
+
+    <!-- COLORES QUE UTILIZAREMOS EN LA APLICACIÓN -->
+    <color name="DarkModerateLimeGreen">#449444</color>
+    <color name="VeryLightGray">#EEEEEE</color>
+    <color name="StrongBlue">#0537d6</color>
+    <color name="VividRed">#e62b1e</color>
+    <color name="MostlyBlack">#202020</color>
+    <color name="VeryDarkGray">#131313</color>
+    <color name="GrayText">#7D7D7D</color>
+    <color name="GrayText2">#808080</color>
+    <color name="White">#FFFFFF</color>
+    <color name="VeryDarkDesaturatedLimeGreen">#2c602c</color>
+</resources>
